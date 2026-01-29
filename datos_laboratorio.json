@@ -1,0 +1,25 @@
+{
+    "recursos": {
+        "SEC01": {
+            "nombre": "Secuenciador Genómico",
+            "tipo": "maquinaria"
+        },
+        "BIO01": {
+            "nombre": "Analista Bioinformático",
+            "tipo": "personal"
+        },
+        "CRIO1": {
+            "nombre": "Criostato",
+            "tipo": "frio"
+        },
+        "INC01": {
+            "nombre": "Incubador de Cultivos",
+            "tipo": "calor"
+        },
+        "MIC01": {
+            "nombre": "Microscopio Electrónico",
+            "tipo": "optico"
+        }
+    },
+    "eventos": []
+}
